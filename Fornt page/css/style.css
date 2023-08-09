@@ -1,0 +1,67 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar{
+    width: 100%;
+    font-size: 20px;
+    background-color: chartreuse;
+}
+.logo{
+    width:60px;
+    margin:20px;
+}
+
+
+ul{
+    list-style-type: none;
+    float: right;
+}
+
+ul li{
+    display: inline-block;
+    margin: 13px;
+    margin-top: 38px;
+    padding: 0px 20px;
+}
+.search{
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-right: 20px;
+    padding: 10px;
+}
+.banner{
+    width: 100%;
+}
+
+
+.continer{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.images01{
+    float: right;
+}
+
+.images01,.slide{
+    display: inline-block;
+    margin: 6px;
+    background-color: burlywood;
+
+}
+p{
+    text-align: center;
+    border: 1px solid red;
+
+}
+
+
+.enter{
+    width: 438px;
+    height: 350px;
+    border: 1px solid red;
+
+}
+
